@@ -1,5 +1,5 @@
 ## Investigation Overview
-In this investigation, I wanted to look at the features of prosper loan that could be used to predict their delinquency. The main focus was on the prosper rating, monthly income, occupation, and employment status
+In this investigation, I want to look at the features of prosper loan that could be used to predict their delinquency. The main focus was on the prosper rating, monthly income, occupation, and employment status
 
 ## Dataset Overview
 This data set includes customers who have paid off their loans, who have been past due and put into collection without paying back their loan and interests, and who have paid off only after they were put in collection. The original dataset contains 113937 rows and 81 columns out of which 12 features of intrest were selected.Eight hundred and seventy-one data points were removed from the analysis due to inconsistencies or missing information.
