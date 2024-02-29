@@ -1,8 +1,6 @@
-![](https://savingexpert.org/wp-content/uploads/2018/11/prosper-personal-loans-reviews.png)
+![](prosper-loan-delinquency.webp)
 
 <h2 align = 'center'>FACTORS THAT AFFECT PROSPER RATING AND HOW IT CAN BE USED TO PREDICT DELINQUENCY</h2>
-
-## Updated: September 13, 2022
 
 ## Investigation Overview
 In this investigation, I look at the features of prosper loan that could be used to predict borrower's delinquency. The main focus was on the prosper rating, monthly income, occupation, and employment status. The analysis was divide into two stages, the [exploratory](Exploratory_Analysis.ipynb) and [explanatory](Explanatory_Analysis.ipynb) analysis.
